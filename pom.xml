@@ -12,8 +12,8 @@
     <groupId>org.webjars</groupId>
     <artifactId>leonidas-transparency</artifactId>
     <version>0.9.14-SNAPSHOT</version>
-    <name>transpancy</name>
-    <description>WebJar for transpancy.js</description>
+    <name>leonidas-transparency</name>
+    <description>WebJar for transparency.js</description>
     <url>http://webjars.org</url>
 
     <developers>
